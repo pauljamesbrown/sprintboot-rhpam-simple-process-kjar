@@ -1,0 +1,1 @@
+{"id":"c3911ca2-9280-4d7b-af83-ce8d67935f10","name":"ApprovalTask-taskform.frm","model":{"taskName":"ApprovalTask","processId":"org.demo.SampleCaseProcess","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
